@@ -1,0 +1,104 @@
+ body {
+background-color: #0e1b33;
+}
+.karrigan {
+ position: absolute;
+ top: 50px;
+ left: 100px;
+}
+.rain {
+    position: absolute;
+    top: 50px;
+    left: 400px
+}
+.frozen {
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+.broky {
+    position: absolute;
+    top: 50px;
+    left: 1000px;
+}
+.ropz {
+    position: absolute;
+    top: 50px;
+    left: 1300px;
+}
+.tk {
+position: absolute;
+color: red;
+left: 170px;
+top: 250px;
+}
+.rk {
+    position: absolute;
+    color: red;
+    top: 250px;
+    left: 480px;
+}
+.fk {
+    position: absolute;
+    top: 250px;
+    color: red;
+    left: 770px;
+}
+.bk {
+    position: absolute;   
+    color: red;
+    top: 250px;
+    left: 1080px;
+}
+.pz {
+    position: absolute;
+    color: red;
+    top: 250px;
+    left: 1390px;
+}
+.KGKP {
+margin: 400px 100px 0px 60px;
+width: 1400px;
+border: solid silver;
+color: silver; 
+border-radius: 20px;
+text-align: justify;
+font-family: Comic Sans MS, Comic Sans, cursive;;
+}
+.RGKP {
+    margin: 50px 100px 0px 60px;
+    width: 1400px;
+    border: solid silver;
+    color: silver; 
+    border-radius: 20px;
+    text-align: justify;
+    font-family: Comic Sans MS, Comic Sans, cursive;;
+    }
+    .FGKP {
+        margin: 50px 100px 0px 60px;
+        width: 1400px;
+        border: solid silver;
+        color: silver; 
+        border-radius: 20px;
+        text-align: justify;
+        font-family: Comic Sans MS, Comic Sans, cursive;;
+        }
+        .BGKP {
+            margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;;
+            }
+            .ROGKP {
+                margin: 50px 100px 0px 60px;
+                width: 1400px;
+                border: solid silver;
+                color: silver; 
+                border-radius: 20px;
+                text-align: justify;
+                font-family: Comic Sans MS, Comic Sans, cursive;;
+                }
+    

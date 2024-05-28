@@ -1,0 +1,114 @@
+body {
+    background-color: #0e1b33;
+}
+.FLAMEZ {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    width: 200px;
+    height: 200px;    
+}
+   .MEZII {
+       position: absolute;
+       top: 50px;
+       left: 400px;
+       width: 200px;
+       height: 200px;
+      
+    }
+   .ZYWOO {
+       position: absolute;
+       top: 50px;
+       left: 700px;
+       width: 200px;
+       height: 200px;
+    }
+   .SPINX {
+       position: absolute;
+       top: 50px;
+       left: 1000px;
+       width: 200px;
+       height: 200px;
+   }
+   .APEX{
+       position: absolute;
+       top: 50px;
+       left: 1300px;
+       width: 200px;
+       height: 200px;
+    }
+    .FLAMEZk {
+        position: absolute;
+        color: yellow;
+        left: 175px;
+        top: 250px;
+        }
+        .MEZIIk {
+            position: absolute;
+            color: yellow;
+            top: 250px;
+            left: 485px;
+        }
+        .ZYWOOk {
+            position: absolute;
+            top: 250px;
+            color: yellow;
+            left: 780px;
+        }
+        .SPINXk {
+            position: absolute;   
+            color: yellow;
+            top: 250px;
+            left: 1080px;
+        }
+        .APEXk {
+            position: absolute;
+            color: yellow;
+            top: 250px;
+            left: 1380px;
+        }
+        .FLAMEZKP {
+            margin: 400px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;
+        }
+        .MEZIIKP {
+            margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive; 
+        }
+        .ZYWOOKP {
+            margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;;
+            }
+            .SPINXKP {
+                margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;;
+            }
+            .APEXKP{
+                margin: 50px 100px 0px 60px;
+                width: 1400px;
+                border: solid silver;
+                color: silver; 
+                border-radius: 20px;
+                text-align: justify;
+                font-family: Comic Sans MS, Comic Sans, cursive;;
+            }    

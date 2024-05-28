@@ -1,0 +1,114 @@
+body {
+    background-color: #0e1b33;
+}
+.Brolan {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    width: 200px;
+    height: 200px;    
+}
+   .Siuhy {
+       position: absolute;
+       top: 50px;
+       left: 400px;
+       width: 200px;
+       height: 200px;
+      
+    }
+   .Torzsi {
+       position: absolute;
+       top: 50px;
+       left: 700px;
+       width: 200px;
+       height: 200px;
+    }
+   .Jimpphat {
+       position: absolute;
+       top: 50px;
+       left: 1000px;
+       width: 200px;
+       height: 200px;
+   }
+   .Xertion{
+       position: absolute;
+       top: 50px;
+       left: 1300px;
+       width: 200px;
+       height: 200px;
+    }
+    .brolank {
+        position: absolute;
+        color: red;
+        left: 180px;
+        top: 250px;
+        }
+        .siuhyk {
+            position: absolute;
+            color: red;
+            top: 250px;
+            left: 480px;
+        }
+        .Torzsik {
+            position: absolute;
+            top: 250px;
+            color: red;
+            left: 780px;
+        }
+        .jimpphatk {
+            position: absolute;   
+            color: red;
+            top: 250px;
+            left: 1075px;
+        }
+        .Xertionk {
+            position: absolute;
+            color: red;
+            top: 250px;
+            left: 1380px;
+        }
+        .BrolanKP {
+            margin: 400px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;
+        }
+        .siuhyKP {
+            margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive; 
+        }
+        .TorzsKP {
+            margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;;
+            }
+            .jimpphatKP {
+                margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;;
+            }
+            .xertionKP{
+                margin: 50px 100px 0px 60px;
+                width: 1400px;
+                border: solid silver;
+                color: silver; 
+                border-radius: 20px;
+                text-align: justify;
+                font-family: Comic Sans MS, Comic Sans, cursive;;
+            }    

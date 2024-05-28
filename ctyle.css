@@ -1,0 +1,155 @@
+    .div1{
+       color: white;
+       text-align: center;
+       font-family: impact;
+     position: absolute;
+     top: 100px;
+     left: 610px ;
+    }
+    body{
+        background-color: #0e1b33
+    }
+    .img {
+        width: 1000px; 
+        align-items: center;
+        margin: 150px 100px 0px 270px ;
+        border-radius: 50px 50px 50px 50px;
+     
+    }
+    .txt {
+        color: white;
+        text-align: center;
+    }
+    .div2 {
+        margin: -30px 300px 0px 320px;
+        color: white;
+        }
+        .div3 {
+            color: white;
+       text-align: center;
+       border: solid;
+       border-radius: 50px 50px 50px 50px;   
+       margin: 40px 90px 0px 370px; 
+       width: 800px;
+    }
+    .div4 {
+        color: white;
+   width: 200px;
+   margin: 10px 0px 0px 300px ;
+   font-family: Apple Chancery, cursive;
+}
+.opacity {
+    opacity: 50%;
+    background-color: grey;
+    width: 1380px;
+}
+.divopacity {
+    margin: 50px 80px 50px 100px;
+}
+.height {
+     width: 900px;
+border: solid orangered;
+color: white;
+margin: 0px 0px 0px 280px;
+border-radius: 20px 20px 20px 20px;
+text-align: justify;
+font-family: Courier New, monospace;
+}
+.img2 {
+    width: 600px; 
+    margin: 2px 30px 0px 440px ;
+    border: inset;
+    border-color: #0e1b33;
+    border-radius: 10px;
+
+}
+.header2 {
+    background-color: #020814;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+}
+.headert{
+font-family: Comic Sans MS, Comic Sans, cursive;
+color: whitesmoke;
+margin: 0px;
+position:absolute;
+  top: 30px;
+  left: 20px;
+
+
+}
+.a{
+    color: white;
+}
+.FaZE{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+color: whitesmoke;
+margin: 0px;
+position: absolute;
+  top: 18px;
+  left: 400px;
+}
+.MoUZ{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+color: whitesmoke;
+margin: 0px;
+position: absolute;
+  top: 18px;
+  left: 600px;
+}
+
+.VITY{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+color: whitesmoke;
+margin: 0px;
+position: absolute;
+  top: 18px;
+  left: 800px;
+}
+.g2{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+color: whitesmoke;
+margin: 0px;
+position: absolute;
+  top: 18px;
+  left: 1000px;
+}
+.TS{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+color: whitesmoke;
+margin: 0px;
+position: absolute;
+  top: 18px;
+  left: 1150px;
+}
+.header3 {
+    background-color: #020814;
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 5100px;
+    color: #FF0000;
+
+}
+.write {
+    position: absolute;
+    left: 700px;
+}
+.VK {
+color: #FF0000;
+position: absolute;
+top: 5200px;
+left: 300px;
+font-size: 50px;
+}
+.WhatsApp {
+color: #FF0000;
+position: absolute;
+bottom: -4500px;
+left: 1100px;
+font-size:50px ;
+}
+
+
+

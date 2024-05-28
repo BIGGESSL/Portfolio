@@ -1,0 +1,114 @@
+body {
+    background-color: #0e1b33;
+}
+.HOOXI {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    width: 200px;
+    height: 200px;    
+}
+   .NEXA {
+       position: absolute;
+       top: 50px;
+       left: 400px;
+       width: 200px;
+       height: 200px;
+      
+    }
+   .HUNTER {
+       position: absolute;
+       top: 50px;
+       left: 700px;
+       width: 200px;
+       height: 200px;
+    }
+   .NIKO {
+       position: absolute;
+       top: 50px;
+       left: 1000px;
+       width: 200px;
+       height: 200px;
+   }
+   .MONESY{
+       position: absolute;
+       top: 50px;
+       left: 1300px;
+       width: 200px;
+       height: 200px;
+    }
+    .HOOXIk {
+        position: absolute;
+        color: white;
+        left: 180px;
+        top: 250px;
+        }
+        .NEXAk {
+            position: absolute;
+            color: white;
+            top: 250px;
+            left: 485px;
+        }
+        .HUNTERk {
+            position: absolute;
+            top: 250px;
+            color: white;
+            left: 780px;
+        }
+        .NIKOk {
+            position: absolute;   
+            color: white;
+            top: 250px;
+            left: 1085px;
+        }
+        .MONESYk {
+            position: absolute;
+            color: white;
+            top: 250px;
+            left: 1370px;
+        }
+        .HOOXIKP {
+            margin: 400px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;
+        }
+        .NEXAKP {
+            margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive; 
+        }
+        .HUNTERKP {
+            margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;;
+            }
+            .NIKOKP {
+                margin: 50px 100px 0px 60px;
+            width: 1400px;
+            border: solid silver;
+            color: silver; 
+            border-radius: 20px;
+            text-align: justify;
+            font-family: Comic Sans MS, Comic Sans, cursive;;
+            }
+            .MONESYKP{
+                margin: 50px 100px 0px 60px;
+                width: 1400px;
+                border: solid silver;
+                color: silver; 
+                border-radius: 20px;
+                text-align: justify;
+                font-family: Comic Sans MS, Comic Sans, cursive;;
+            }    
